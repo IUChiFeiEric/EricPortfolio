@@ -9,6 +9,17 @@ Different projects I have done & keep tracking of my progress.
 
 The Website is innovated by "Steam Awards" and designed for the players to vote for their favourite game accross different game genres. After players voted for their favourite game, the website will redirect them to the voting result. There are 3 charts that show the voting statistics (By region, genre, and terms agreement). Our slogan is "Every vote counts. Every genre matters. Every gamer has a voice.". By this voting, we can further leverage the data to support decisions making. For example, customize the game recommendation to every individual player.
 
+## Introduction
+![](image/background.png)
+
+## Game Genre
+![](image/cards.png)
+
+## Form
+![](image/survey.png)
+
+## Page After Voted
+![](image/afterVote.png)
 
 
 # [Tamjai Samgor Loyalty Program Evaluation](https://github.com/iuchifeieric-portfolio/TamJai-Samgor-Loyalty-Program-Evaluation/tree/main)
