@@ -3,10 +3,12 @@ Different projects I have done & keep tracking of my progress.
 >[!Note]
 > Keep Updating...
 
-# [Tamjai Samgor Loyalty Program Evaluation](https://github.com/iuchifeieric-portfolio/TamJai-Samgor-Loyalty-Program-Evaluation/tree/main)
+# [Web Development For Survey & Data Visualization](frontend & backend](https://github.com/iuchifeieric-portfolio/TamJai-Samgor-Loyalty-Program-Evaluation/tree/main)
 >[!Tip]
 > Click the title to see more...
+This is a 
 
+# [Tamjai Samgor Loyalty Program Evaluation](https://github.com/iuchifeieric-portfolio/TamJai-Samgor-Loyalty-Program-Evaluation/tree/main)
 This is a group project to evaluate the current problems of TamJai's loyalty program and propose possible solutions to resolve those problems and also come up with innovative e-CRM stategies to further improve the loyalty program.
 
 * Data was collected by web scrapping the ratings & comments from Google Play.
